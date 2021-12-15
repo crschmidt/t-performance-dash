@@ -1,5 +1,5 @@
 {
-    "23": {
+    "22": {
         "type": "bus",
         "direction": {
             "0": "outbound",
@@ -13,10 +13,10 @@
                 "order": 1,
                 "stops": {
                     "1": [
-                        "23-1-334"
+                        "22-1-334"
                     ],
                     "0": [
-                        "23-0-334"
+                        "22-0-334"
                     ]
                 }
             },
@@ -27,95 +27,82 @@
                 "order": 2,
                 "stops": {
                     "1": [
-                        "23-1-371"
+                        "22-1-371"
                     ],
                     "0": [
-                        "23-0-426"
+                        "22-0-426"
                     ]
                 }
             },
             {
-                "stop_name": "Four Corners (Dorchester)",
+                "stop_name": "Blue Hill Ave @ Talbot Ave",
                 "branches": null,
-                "station": "fourc",
+                "station": "bltal",
                 "order": 3,
                 "stops": {
                     "1": [
-                        "23-1-463"
+                        "22-1-378"
                     ],
                     "0": [
-                        "23-0-478"
+                        "22-0-419"
                     ]
                 }
             },
             {
-                "stop_name": "Washington St & Columbia Rd",
+                "stop_name": "Franklin Park",
                 "branches": null,
-                "station": "wacol",
+                "station": "frnpk",
                 "order": 4,
                 "stops": {
                     "1": [
-                        "23-1-473"
+                        "22-1-383"
                     ],
                     "0": [
-                        "23-0-468"
+                        "22-0-17391",
+                        "22-0-415"
                     ]
                 }
             },
             {
-                "stop_name": "Grove Hall",
+                "stop_name": "Seaver & Humboldt",
                 "branches": null,
-                "station": "ghall",
+                "station": "svrhm",
                 "order": 5,
                 "stops": {
                     "1": [
-                        "23-1-386"
+                        "22-1-1741"
                     ],
                     "0": [
-                        "23-0-412"
+                        "22-0-17411"
                     ]
                 }
             },
             {
-                "stop_name": "Warren St @ Boston Latin",
+                "stop_name": "Egleston Square",
                 "branches": null,
-                "station": "latac",
+                "station": "egles",
                 "order": 6,
                 "stops": {
                     "1": [
-                        "23-1-390"
+                        "22-1-1188"
                     ],
                     "0": [
-                        "23-0-13321",
-                        "23-0-407"
+                        "22-0-10413",
+                        "22-0-1267"
                     ]
                 }
             },
             {
-                "stop_name": "Warren St @ Walnut Ave",
+                "stop_name": "Jackson Square Station",
                 "branches": null,
-                "station": "warwl",
+                "station": "jasst",
                 "order": 7,
                 "stops": {
                     "1": [
-                        "23-1-396"
+                        "22-1-11531"
                     ],
                     "0": [
-                        "23-0-40001"
-                    ]
-                }
-            },
-            {
-                "stop_name": "Nubian Station",
-                "branches": null,
-                "station": "nubn",
-                "order": 8,
-                "stops": {
-                    "1": [
-                        "23-1-64000"
-                    ],
-                    "0": [
-                        "23-0-64000"
+                        "22-0-11531"
                     ]
                 }
             },
@@ -123,13 +110,14 @@
                 "stop_name": "Roxbury Crossing Station",
                 "branches": null,
                 "station": "roxbs",
-                "order": 9,
+                "order": 8,
                 "stops": {
                     "1": [
-                        "23-1-21148"
+                        "22-1-1222"
                     ],
                     "0": [
-                        "23-0-11257"
+                        "22-0-1258",
+                        "22-0-21148"
                     ]
                 }
             },
@@ -137,13 +125,14 @@
                 "stop_name": "Ruggles",
                 "branches": null,
                 "station": "rugg",
-                "order": 10,
+                "order": 9,
                 "stops": {
                     "1": [
-                        "23-1-17861"
+                        "22-1-17861",
+                        "22-1-17863"
                     ],
                     "0": [
-                        "23-0-17862"
+                        "22-0-17862"
                     ]
                 }
             }

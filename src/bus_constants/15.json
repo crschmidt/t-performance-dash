@@ -1,5 +1,5 @@
 {
-    "23": {
+    "15": {
         "type": "bus",
         "direction": {
             "0": "outbound",
@@ -7,101 +7,87 @@
         },
         "stations": [
             {
-                "stop_name": "Ashmont Terminal",
+                "stop_name": "Fields Corner",
                 "branches": null,
-                "station": "ashmt",
+                "station": "fldcr",
                 "order": 1,
                 "stops": {
                     "1": [
-                        "23-1-334"
+                        "15-1-322",
+                        "15-1-323"
                     ],
                     "0": [
-                        "23-0-334"
+                        "15-0-323"
                     ]
                 }
             },
             {
-                "stop_name": "Codman Square",
+                "stop_name": "Saint Peter's Square (Dorchester)",
                 "branches": null,
-                "station": "codmn",
+                "station": "peter",
+                "order": 1,
+                "stops": {
+                    "1": [
+                        "15-1-15100"
+                    ],
+                    "0": [
+                        "15-0-15100"
+                    ]
+                }
+            },
+            {
+                "stop_name": "Geneva Ave @ Bowdoin St",
+                "branches": null,
+                "station": "genbo",
                 "order": 2,
                 "stops": {
                     "1": [
-                        "23-1-371"
+                        "15-1-1468"
                     ],
                     "0": [
-                        "23-0-426"
+                        "15-0-1515"
                     ]
                 }
             },
             {
-                "stop_name": "Four Corners (Dorchester)",
+                "stop_name": "Kane Square",
                 "branches": null,
-                "station": "fourc",
+                "station": "kane",
                 "order": 3,
                 "stops": {
                     "1": [
-                        "23-1-463"
+                        "15-1-1475"
                     ],
                     "0": [
-                        "23-0-478"
+                        "15-0-1508"
                     ]
                 }
             },
             {
-                "stop_name": "Washington St & Columbia Rd",
+                "stop_name": "Uphams Corner",
                 "branches": null,
-                "station": "wacol",
+                "station": "upham",
                 "order": 4,
                 "stops": {
                     "1": [
-                        "23-1-473"
+                        "15-1-1480"
                     ],
                     "0": [
-                        "23-0-468"
+                        "15-0-1503"
                     ]
                 }
             },
             {
-                "stop_name": "Grove Hall",
+                "stop_name": "Blue Hill Ave @ Dudley",
                 "branches": null,
-                "station": "ghall",
+                "station": "bhdud",
                 "order": 5,
                 "stops": {
                     "1": [
-                        "23-1-386"
+                        "15-1-1486"
                     ],
                     "0": [
-                        "23-0-412"
-                    ]
-                }
-            },
-            {
-                "stop_name": "Warren St @ Boston Latin",
-                "branches": null,
-                "station": "latac",
-                "order": 6,
-                "stops": {
-                    "1": [
-                        "23-1-390"
-                    ],
-                    "0": [
-                        "23-0-13321",
-                        "23-0-407"
-                    ]
-                }
-            },
-            {
-                "stop_name": "Warren St @ Walnut Ave",
-                "branches": null,
-                "station": "warwl",
-                "order": 7,
-                "stops": {
-                    "1": [
-                        "23-1-396"
-                    ],
-                    "0": [
-                        "23-0-40001"
+                        "15-0-1497"
                     ]
                 }
             },
@@ -109,13 +95,14 @@
                 "stop_name": "Nubian Station",
                 "branches": null,
                 "station": "nubn",
-                "order": 8,
+                "order": 6,
                 "stops": {
                     "1": [
-                        "23-1-64000"
+                        "15-1-64000",
+                        "15-1-64"
                     ],
                     "0": [
-                        "23-0-64000"
+                        "15-0-64000"
                     ]
                 }
             },
@@ -123,13 +110,13 @@
                 "stop_name": "Roxbury Crossing Station",
                 "branches": null,
                 "station": "roxbs",
-                "order": 9,
+                "order": 7,
                 "stops": {
                     "1": [
-                        "23-1-21148"
+                        "15-1-21148"
                     ],
                     "0": [
-                        "23-0-11257"
+                        "15-0-11257"
                     ]
                 }
             },
@@ -137,13 +124,13 @@
                 "stop_name": "Ruggles",
                 "branches": null,
                 "station": "rugg",
-                "order": 10,
+                "order": 8,
                 "stops": {
                     "1": [
-                        "23-1-17861"
+                        "15-1-17861"
                     ],
                     "0": [
-                        "23-0-17862"
+                        "15-0-17863"
                     ]
                 }
             }
